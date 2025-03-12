@@ -1,11 +1,7 @@
 {
   "name": "com.foodexpressbot.types",
-  "version": "1.0.6",
-<<<<<<< HEAD
+  "version": "1.0.7",
   "description": "Types for Virtual Diner services.",
-=======
-  "description": "Types for FoodExpress services.",
->>>>>>> f94a7e5 (Initial commit)
   "main": "cjs/types.js",
   "exports": {
     "./types": {
