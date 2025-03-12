@@ -2,5 +2,3 @@ node_modules/
 .idea/
 .yarn/
 package-lock.json
-esm/
-cjs/
