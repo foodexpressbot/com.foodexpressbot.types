@@ -34,6 +34,8 @@ export interface UserOptions {
 	information?: {
 		biography?: string;
 		favFood?: string;
+		portfolio?: string;
+		favSong?: string;
 		pronouns?: string[];
 		timezone?: string;
 	}
