@@ -37,6 +37,8 @@ export interface UserOptions {
 		portfolio?: string;
 		favSong?: string;
 		pronouns?: string[];
+		MBTI?: string;
+		favFilm?: string;
 		banner?: string,
 		themecolor?: string,
 		timezone?: string;
