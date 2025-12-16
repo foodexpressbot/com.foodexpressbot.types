@@ -14,6 +14,7 @@ export interface UserOptions {
 	accessToken?: string;
 	refreshToken?: string;
 	expiresAt?: number;
+	score?: number;
 	// @deprecated use 'ranks' instead
 	// rank?: RankOptions;
 	ranks?: string[];
